@@ -4,6 +4,9 @@
 
 The need for this application arose because built-in mail client does not sync contacts with Google anymore.
 
+The sync logic is taken from https://github.com/Computershik73/WPGContacts, I added one-directional sync and ability to load credentials json from local file
+If you have a problem to create credentials in Google Console, use https://github.com/Symnok/GmailCardDAVSync (Contsact syncing using CardDAV) but CardDAV has some limitations if we are talking about Google Contacts
+
 ---
 
 ## Authentication
