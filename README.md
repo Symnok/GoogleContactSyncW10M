@@ -1,8 +1,8 @@
-# GmailCardDAVSync
+# GoogleContactsSync
 
-**GmailCardDAVSync** is an application for synchronizing **Google Contacts with Windows 10 Mobile (W10M) smartphones** using the **CardDAV protocol**.
+**GoogleContactsSync** is an application for synchronizing **Google Contacts with Windows 10 Mobile (W10M) smartphones** using the **People APIl**.
 
-The need for this application arose because **PH Cloud CardDAV/CalDAV Sync [WM10]** stopped working with Google.
+The need for this application arose because built-in mail client does not sync contacts with Google anymore.
 
 ---
 
