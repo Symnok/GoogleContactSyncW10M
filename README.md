@@ -1,6 +1,6 @@
-# GoogleContactsSync
+# GoogleContactsSyncPeopleAPI
 
-**GoogleContactsSync** is an application for synchronizing **Google Contacts with Windows 10 Mobile (W10M) smartphones** using the **People APIl**.
+**GoogleContactsSyncPeopleAPI** is an application for synchronizing **Google Contacts with Windows 10 Mobile (W10M) smartphones** using the **People APIl**.
 
 The need for this application arose because built-in mail client does not sync contacts with Google anymore.
 
